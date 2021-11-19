@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,qCASE,QACF","file":"reset.bc64ad1a.css","sourceRoot":"..\\src","sourcesContent":["html,\nbody,\ndiv,\na,\nimg,\nul,\nli,\nheader,\nnav {\n  margin: 0;\n}\n"]}
